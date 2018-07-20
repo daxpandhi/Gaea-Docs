@@ -9,4 +9,4 @@ Currently under construction :construction:
 - If you would like to contribute to the documentation, clone this repo and make a pull request.
 - Something else in mind? Drop us a line in an issue or send a message via our Facebook or Twitter.
 
-[Node Test](Using%20Gaea/Graph%20Mode.md)
+[Node Test](Documentation/Using%20Gaea/Graph%20Mode.md)
